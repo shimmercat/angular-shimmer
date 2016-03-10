@@ -1,0 +1,5 @@
+---
+shimmercat-devlove:
+    domains:
+        www.httpdos.com:
+            root-dir: www
